@@ -1,4 +1,4 @@
-module mygame
+module github.com/eihigh/ebiten-lectures
 
 go 1.16
 
